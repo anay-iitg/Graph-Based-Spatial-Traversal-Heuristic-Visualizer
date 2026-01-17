@@ -24,6 +24,7 @@ project4/pathfinding-visualizer/
     ├── dfs.js                  # DFS implementation
     └── dijkstra.js             # Dijkstra's algorithm
 ```
+https://684adf3f52593aa229ad6872--euphonious-empanada-8582c3.netlify.app/
 
 ## Getting Started
 
